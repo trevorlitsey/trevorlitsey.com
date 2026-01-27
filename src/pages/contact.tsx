@@ -14,10 +14,12 @@ const ContactPage: React.SFC<Props> = ({ location: { pathname } }) => {
   return (
     <Layout currentUrlPath={pathname}>
       <h1>
-        contact <span>🤳</span>
+        contact <span>📞</span>
       </h1>
       <TextContent>
-        <p style={{ textAlign: 'center' }}>↓ ↓ ↓</p>
+        <p style={{ textAlign: 'center' }}>
+          From time to time, I take on small web projects. If you’re improving an existing site or starting something new, feel free to reach out. I’m always looking to meet new folks and hear what you're working on!
+          </p>
       </TextContent>
       <Socials />
     </Layout>
