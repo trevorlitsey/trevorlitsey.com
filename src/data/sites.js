@@ -233,6 +233,14 @@ exports.thisIsNotASadBoy = [
 
 exports.fun = [
   {
+    href: 'https://amibeingsimplesabotaged.com',
+    placeholderImgSrc:
+      'https://res.cloudinary.com/sadness/image/upload/h_1,w_1/v1528057225/trevorlitsey.com/sabotage.png',
+    imgSrc:
+      'https://res.cloudinary.com/sadness/image/upload/v1771425828/trevorlitsey.com/sabotage.png',
+    label: 'am i being simple sabotaged?',
+  },
+  {
     href: 'https://twitter.trevorlitsey.com/',
     placeholderImgSrc:
       'https://res.cloudinary.com/sadness/image/upload/h_1,w_1/v1528057225/trevorlitsey.com/twitter.png',
