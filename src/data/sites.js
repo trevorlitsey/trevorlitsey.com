@@ -233,6 +233,14 @@ exports.thisIsNotASadBoy = [
 
 exports.fun = [
   {
+    href: 'https://tally.trevor.fail',
+    placeholderImgSrc:
+      'https://tally.trevor.fail/icons/icon-192.png',
+    imgSrc:
+      'https://tally.trevor.fail/icons/icon-512.png',
+    label: 'tally',
+  },
+  {
     href: 'https://amibeingsimplesabotaged.trevorlitsey.com',
     placeholderImgSrc:
       'https://res.cloudinary.com/sadness/image/upload/h_1,w_1/v1528057225/trevorlitsey.com/sabotage.png',
@@ -271,14 +279,6 @@ exports.fun = [
     imgSrc:
       'https://res.cloudinary.com/sadness/image/upload/h_590,w_590/v1528057225/trevorlitsey.com/nob.gif',
     label: 'musicallaround.us',
-  },
-  {
-    href: 'https://tally.trevor.fail',
-    placeholderImgSrc:
-      'https://tally.trevor.fail/icons/icon-192.png',
-    imgSrc:
-      'https://tally.trevor.fail/icons/icon-512.png',
-    label: 'tally',
   },
 ]
 
